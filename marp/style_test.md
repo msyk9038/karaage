@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: test
 
 ---
 # test 'これはテストです．課題の確認を行います．'

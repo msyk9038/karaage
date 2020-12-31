@@ -1,6 +1,8 @@
 ---
 marp: true
-theme: test
+# theme: test
+# theme: gaia
+theme: uncover
 
 header: header
 # footer: sakana
