@@ -1,0 +1,23 @@
+/* @theme test */
+@import default;
+
+section {
+    color:lightgray;
+    font-family: 'Meiryo UI';
+    background-color: darkgreen;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+section h1 {
+    color: orangered;
+}
+
+section.title{
+    color:peru;
+    font-size: 40px;
+}
+section.title h1{
+    color:royalblue;
+}
